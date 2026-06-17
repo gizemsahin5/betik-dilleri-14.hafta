@@ -1,0 +1,2 @@
+a = prompt('İsminizi Yazınız');
+alert(a); //GİZEM  ŞAHİN TARAFINDAN KODLANDI
